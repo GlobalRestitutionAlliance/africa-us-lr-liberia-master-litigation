@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: liberian-restitution-roadmap-and-qsf-trust-execution
-  name: Liberian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/liberian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_lr_001
+    name: Liberia Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_002
+    name: Liberia Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_003
+    name: Liberia Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_004
+    name: Liberia Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_005
+    name: Liberia Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_006
+    name: Liberia Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_007
+    name: Liberia Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_008
+    name: Liberia Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_009
+    name: Liberia Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_010
+    name: Liberia Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_011
+    name: Liberia Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_012
+    name: Liberia Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_013
+    name: Liberia Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_014
+    name: Liberia Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_015
+    name: Liberia Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_016
+    name: Liberia Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_017
+    name: Liberia Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_018
+    name: Liberia Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_019
+    name: Liberia Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_020
+    name: Liberia Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_021
+    name: Liberia Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_022
+    name: Liberia Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_023
+    name: Liberia Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_024
+    name: Liberia Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_025
+    name: Liberia Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_026
+    name: Liberia Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_027
+    name: Liberia Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_028
+    name: Liberia Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_029
+    name: Liberia Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_030
+    name: Liberia Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_031
+    name: Liberia Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_032
+    name: Liberia Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_033
+    name: Liberia Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_034
+    name: Liberia Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_035
+    name: Liberia Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_036
+    name: Liberia Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_037
+    name: Liberia Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_038
+    name: Liberia Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_039
+    name: Liberia Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_040
+    name: Liberia Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_041
+    name: Liberia Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_042
+    name: Liberia Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_043
+    name: Liberia Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_044
+    name: Liberia Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_045
+    name: Liberia Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_046
+    name: Liberia Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_047
+    name: Liberia Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_048
+    name: Liberia Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_049
+    name: Liberia Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_050
+    name: Liberia Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_051
+    name: Liberia Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_052
+    name: Liberia Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_053
+    name: Liberia Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_054
+    name: Liberia Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_055
+    name: Liberia Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_056
+    name: Liberia Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_057
+    name: Liberia Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_058
+    name: Liberia Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_059
+    name: Liberia Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_060
+    name: Liberia Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_061
+    name: Liberia Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_062
+    name: Liberia Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_063
+    name: Liberia Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_064
+    name: Liberia Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_065
+    name: Liberia Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_066
+    name: Liberia Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_067
+    name: Liberia Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_068
+    name: Liberia Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_069
+    name: Liberia Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_070
+    name: Liberia Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_071
+    name: Liberia Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_072
+    name: Liberia Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_073
+    name: Liberia Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_074
+    name: Liberia Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_075
+    name: Liberia Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_076
+    name: Liberia Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_077
+    name: Liberia Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_078
+    name: Liberia Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_079
+    name: Liberia Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_080
+    name: Liberia Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_081
+    name: Liberia Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_082
+    name: Liberia Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_083
+    name: Liberia Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_084
+    name: Liberia Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_085
+    name: Liberia Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_086
+    name: Liberia Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_087
+    name: Liberia Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_088
+    name: Liberia Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_089
+    name: Liberia Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_090
+    name: Liberia Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_091
+    name: Liberia Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_092
+    name: Liberia Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_093
+    name: Liberia Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_094
+    name: Liberia Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_095
+    name: Liberia Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_096
+    name: Liberia Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_097
+    name: Liberia Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_098
+    name: Liberia Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_099
+    name: Liberia Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_100
+    name: Liberia Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_101
+    name: Liberia Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_102
+    name: Liberia Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_103
+    name: Liberia Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_104
+    name: Liberia Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_105
+    name: Liberia Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_106
+    name: Liberia Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_107
+    name: Liberia Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_108
+    name: Liberia Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_109
+    name: Liberia Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_110
+    name: Liberia Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_111
+    name: Liberia Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_112
+    name: Liberia Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_113
+    name: Liberia Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_114
+    name: Liberia Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_115
+    name: Liberia Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_116
+    name: Liberia Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_117
+    name: Liberia Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_118
+    name: Liberia Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_119
+    name: Liberia Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_120
+    name: Liberia Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_121
+    name: Liberia Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_122
+    name: Liberia Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_123
+    name: Liberia Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_124
+    name: Liberia Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_125
+    name: Liberia Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_126
+    name: Liberia Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_127
+    name: Liberia Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_128
+    name: Liberia Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_129
+    name: Liberia Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_130
+    name: Liberia Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_131
+    name: Liberia Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_132
+    name: Liberia Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_133
+    name: Liberia Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_134
+    name: Liberia Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_135
+    name: Liberia Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_136
+    name: Liberia Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_137
+    name: Liberia Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_138
+    name: Liberia Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_139
+    name: Liberia Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_140
+    name: Liberia Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_141
+    name: Liberia Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_142
+    name: Liberia Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_143
+    name: Liberia Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_144
+    name: Liberia Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_145
+    name: Liberia Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_146
+    name: Liberia Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_147
+    name: Liberia Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_148
+    name: Liberia Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_149
+    name: Liberia Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_150
+    name: Liberia Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_151
+    name: Liberia Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_152
+    name: Liberia Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_153
+    name: Liberia Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_154
+    name: Liberia Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_155
+    name: Liberia Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_156
+    name: Liberia Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_157
+    name: Liberia Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_158
+    name: Liberia Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_159
+    name: Liberia Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_160
+    name: Liberia Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_161
+    name: Liberia Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_162
+    name: Liberia Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_163
+    name: Liberia Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_164
+    name: Liberia Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_165
+    name: Liberia Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_166
+    name: Liberia Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_167
+    name: Liberia Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_168
+    name: Liberia Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_169
+    name: Liberia Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_170
+    name: Liberia Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_171
+    name: Liberia Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_172
+    name: Liberia Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_173
+    name: Liberia Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_174
+    name: Liberia Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_175
+    name: Liberia Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_176
+    name: Liberia Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_177
+    name: Liberia Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_178
+    name: Liberia Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_179
+    name: Liberia Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_180
+    name: Liberia Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_181
+    name: Liberia Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_182
+    name: Liberia Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_183
+    name: Liberia Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_184
+    name: Liberia Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_185
+    name: Liberia Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_186
+    name: Liberia Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_187
+    name: Liberia Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_188
+    name: Liberia Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_189
+    name: Liberia Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_190
+    name: Liberia Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_191
+    name: Liberia Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_192
+    name: Liberia Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_193
+    name: Liberia Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_194
+    name: Liberia Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_195
+    name: Liberia Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_196
+    name: Liberia Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_197
+    name: Liberia Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_198
+    name: Liberia Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_199
+    name: Liberia Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_200
+    name: Liberia Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_201
+    name: Liberia Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_202
+    name: Liberia Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_203
+    name: Liberia Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_204
+    name: Liberia Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_205
+    name: Liberia Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_206
+    name: Liberia Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_207
+    name: Liberia Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_208
+    name: Liberia Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_209
+    name: Liberia Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_210
+    name: Liberia Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_211
+    name: Liberia Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_212
+    name: Liberia Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_213
+    name: Liberia Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_214
+    name: Liberia Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_215
+    name: Liberia Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_216
+    name: Liberia Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_217
+    name: Liberia Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_218
+    name: Liberia Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_219
+    name: Liberia Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_220
+    name: Liberia Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_221
+    name: Liberia Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_222
+    name: Liberia Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_223
+    name: Liberia Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_224
+    name: Liberia Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_225
+    name: Liberia Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_226
+    name: Liberia Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_227
+    name: Liberia Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_228
+    name: Liberia Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_229
+    name: Liberia Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_230
+    name: Liberia Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_231
+    name: Liberia Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_232
+    name: Liberia Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_233
+    name: Liberia Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_234
+    name: Liberia Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_235
+    name: Liberia Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_236
+    name: Liberia Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_237
+    name: Liberia Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_238
+    name: Liberia Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_239
+    name: Liberia Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_240
+    name: Liberia Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_241
+    name: Liberia Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_242
+    name: Liberia Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_243
+    name: Liberia Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_244
+    name: Liberia Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_245
+    name: Liberia Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_246
+    name: Liberia Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_247
+    name: Liberia Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_248
+    name: Liberia Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_249
+    name: Liberia Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_250
+    name: Liberia Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_251
+    name: Liberia Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_lr_252
+    name: Liberia Skill 252
+    status: ACTIVE_SCAFFOLD
