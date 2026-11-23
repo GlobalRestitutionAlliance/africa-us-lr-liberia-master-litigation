@@ -3,7 +3,7 @@
 **Country Key:** US_LR_LIBERIA
 **ISO Code:** LR/LBR
 **Historical Arc:** 1847-2026
-**Restitution Pool:** $8.00B
+**Restitution Pool:** TBD (valuation pending)
 **Instruments:** 10
 
 ## Primary Judgment

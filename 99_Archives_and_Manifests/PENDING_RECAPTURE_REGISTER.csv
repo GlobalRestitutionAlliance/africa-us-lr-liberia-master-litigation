@@ -1,0 +1,6 @@
+repo,url,title,status,reason,notes,last_attempt
+US_LR_LIBERIA,https://chroniclingamerica.loc.gov/,Chronicling America LOC,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LR_LIBERIA,https://www.justia.com/,Justia,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LR_LIBERIA,https://www.loc.gov/item/?q=liberia+colonial+forced+labor,Library of Congress - Liberia,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LR_LIBERIA,https://digitallibrary.un.org/,UN Digital Library,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
+US_LR_LIBERIA,https://data.worldbank.org/country/liberia,World Bank Liberia,PENDING_RECAPTURE,NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE,Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture.,2026-11-23
